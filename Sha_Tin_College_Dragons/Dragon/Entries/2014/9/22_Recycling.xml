@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="620E5D74-05ED-4811-A0D4-313293C2ABE9">
+  <lastEdited clientType="local-build-20141126" date="2014-11-26 03:33:52 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Recycling&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, 22 September, 2014&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;&#x201C;Aside from spirit points, we also get house points for recycling our paper, plastic and aluminium. Please make sure you RECYCLE when possible in the DRAGON recycling bins!! Please DO NOT throw litter into the recycling bins because it&#x2019;s quite disgusting. Thanks!&#x201D;&#xD;-Baronica Cheng, Head of EAG&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Recycling_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

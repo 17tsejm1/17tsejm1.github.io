@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="620E5D74-05ED-4811-A0D4-313293C2ABE9">
+  <lastEdited clientType="local-build-20141126" date="2014-11-26 03:33:53 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;#HouseSpirit&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, 22 September, 2014&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;&#x201C;YAY LETS GO DRAGONS!!!!!&#x201D;&#xD;-Wasim Khan&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_HouseSpirit_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

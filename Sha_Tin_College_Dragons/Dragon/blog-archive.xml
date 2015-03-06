@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Dragon</title>
+    <link>http://Sha_Tin_College_Dragons/Dragon</link>
+    <description>Welcome to Sha Tin College Dragon&#x2019;s Official Site. </description>
+    <item>
+      <title>Food Waste Audit</title>
+      <link>http://Sha_Tin_College_Dragons/Dragon/Entries/2014/11/19_Food_Waste_Audit.html</link>
+      <guid isPermaLink="false">4251af41-6fa8-4c3b-847b-5228139a9e79</guid>
+      <pubDate>Wed, 19 Nov 2014 09:11:15 +0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://Sha_Tin_College_Dragons/Dragon/Entries/2014/11/19_Food_Waste_Audit.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Swimming Gala</title>
+      <link>http://Sha_Tin_College_Dragons/Dragon/Entries/2014/9/24_Swimming_Gala.html</link>
+      <guid isPermaLink="false">66fe8008-e944-4d93-a269-5ac7112e4d97</guid>
+      <pubDate>Wed, 24 Sep 2014 20:08:49 +0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://Sha_Tin_College_Dragons/Dragon/Entries/2014/9/24_Swimming_Gala.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Current Positions</title>
+      <link>http://Sha_Tin_College_Dragons/Dragon/Entries/2014/9/23_Current_Positions.html</link>
+      <guid isPermaLink="false">a63ba224-6a08-4ce0-b829-5c09e821bbd0</guid>
+      <pubDate>Tue, 23 Sep 2014 21:02:18 +0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://Sha_Tin_College_Dragons/Dragon/Entries/2014/9/23_Current_Positions.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Mervyn's "Speech"</title>
+      <link>http://Sha_Tin_College_Dragons/Dragon/Entries/2014/9/23_Mervyns_%22Speech%22.html</link>
+      <guid isPermaLink="false">df481188-dfe1-42d2-a540-d5e97cd5fa51</guid>
+      <pubDate>Tue, 23 Sep 2014 20:33:53 +0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://Sha_Tin_College_Dragons/Dragon/Entries/2014/9/23_Mervyns_%22Speech%22.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Future Inter-House Competitions</title>
+      <link>http://Sha_Tin_College_Dragons/Dragon/Entries/2014/9/22_Future_Inter-House_Competitions.html</link>
+      <guid isPermaLink="false">c9386a4f-b864-4d28-bea6-3476334cb6eb</guid>
+      <pubDate>Mon, 22 Sep 2014 21:57:28 +0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://Sha_Tin_College_Dragons/Dragon/Entries/2014/9/22_Future_Inter-House_Competitions.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>#HouseSpirit</title>
+      <link>http://Sha_Tin_College_Dragons/Dragon/Entries/2014/9/22_HouseSpirit.html</link>
+      <guid isPermaLink="false">7232dc71-2701-426f-9561-5ed242302d47</guid>
+      <pubDate>Mon, 22 Sep 2014 21:53:02 +0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://Sha_Tin_College_Dragons/Dragon/Entries/2014/9/22_HouseSpirit.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Recycling</title>
+      <link>http://Sha_Tin_College_Dragons/Dragon/Entries/2014/9/22_Recycling.html</link>
+      <guid isPermaLink="false">96cc4143-43c7-4604-a80f-da441ccbfb79</guid>
+      <pubDate>Mon, 22 Sep 2014 20:38:10 +0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://Sha_Tin_College_Dragons/Dragon/Entries/2014/9/22_Recycling.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, d MMMM, y</iweb:dateFormat>
+    <iweb:baseURL>http://Sha_Tin_College_Dragons/Dragon</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
