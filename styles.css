@@ -52,4 +52,30 @@
 
 	#box3 {background-color:green; padding:30px}
 	}
- 
+ #para4 {text-decoration: none;
+	font-family: 'Open Sans Condensed', sans-serif;	
+	font-size:30px;
+	text-align: center;
+ }
+#link1 {color:orange}
+#link1:visited{text-decoration: none;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px;
+}
+
+#link1:link{text-decoration: none;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px;
+}
+
+
+#link1:hover{text-decoration: none;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px;
+}
+
+
+#link1:active{text-decoration: none;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px;
+}
