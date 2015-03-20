@@ -1,4 +1,10 @@
-#topheading {color:white;
+/*Main Body*/	
+	body{ 
+	background-color: #3499FA;
+}
+
+/*Box1*/
+	#heading1 {color:white;
 	text-align: center;
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 50px;
@@ -7,44 +13,26 @@
 	text-align: center;
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 25px
-
-	}
-	#para2 {color: white;
-	font-family: 'Open Sans Condensed', sans-serif;
-		text-align: center;
-	}
-	#topbox {background-color:black; padding:30px;
-		text-align: center;
-	}
-	
-	
-	#refresh {color:;}
- body{ 
-   background-color: #3499FA;
 }
-	a:hover {color:blue;}
-	#heading2 {color:black;
-	font-family: 'Open Sans Condensed', sans-serif;	
-	text-align: center;
-	font-size: 50px	
-	}
-	#para3 {color:red;
-		font-family: 'Open Sans Condensed', sans-serif;	
+	
+	#box1 {background-color:black; padding:30px;
 		text-align: center;
-		font-size: 25px;
-	}
+}	
 
-	#box2 {background-color:#6AB2F7; padding:30px}
+/*Box2*/
+	#box2 {background-color:yellow; padding:30px}
 	header ul {
 		margin: 0 auto;
 		background-color:#07DDF5;
 		height: 50px;
-	}
-	header li {padding: 120px;
-		display: inline;
+}
+	#heading2 {color:black;
+	font-family: 'Open Sans Condensed', sans-serif;	
+	text-align: center;
+	font-size: 50px	
+}
+	#para2{color:red;
 		font-family: 'Open Sans Condensed', sans-serif;	
-		font-size: 30px;
 		text-align: center;
-	}
-	#box2 {background-color:yellow; padding:30px}
-	}
+		font-size: 25px;
+}
