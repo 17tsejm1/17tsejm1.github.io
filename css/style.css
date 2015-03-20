@@ -1334,3 +1334,93 @@
 					margin-left: 0;
 					padding: 0;
 				}
+
+		/* Form */
+
+		form
+		{
+		}
+		
+			form label
+			{
+				display: block;
+				margin: 0 0 0.5em 0;
+			}
+		
+			form input[type="text"],
+			form input[type="email"],
+			form input[type="password"],
+			form select,
+			form textarea
+			{
+				-webkit-appearance: none;
+				display: block;
+				border: 0;
+				background: #f1f1f1;
+				width: 100%;
+				padding: 0.75em;
+				-moz-transition: background-color 0.35s ease-in-out;
+				-webkit-transition: background-color 0.35s ease-in-out;
+				-o-transition: background-color 0.35s ease-in-out;
+				-ms-transition: background-color 0.35s ease-in-out;
+				transition: background-color 0.35s ease-in-out;
+			}
+
+			form input[type="text"],
+			form input[type="email"],
+			form input[type="password"],
+			form select
+			{
+				line-height: 1em;
+			}
+
+			form textarea
+			{
+				min-height: 12em;
+			}
+
+				form input[type="text"]:focus,
+				form input[type="email"]:focus,
+				form input[type="password"]:focus,
+				form select:focus,
+				form textarea:focus
+				{
+					background: #f8f8f8;
+				}
+				
+				form .formerize-placeholder
+				{
+					color: #5a5959 !important;
+				}
+
+				form ::-webkit-input-placeholder
+				{
+					color: #5a5959 !important;
+				}
+
+				form :-moz-placeholder
+				{
+					color: #5a5959 !important;
+				}
+
+				form ::-moz-placeholder
+				{
+					color: #5a5959 !important;
+				}
+
+				form :-ms-input-placeholder
+				{
+					color: #5a5959 !important;
+				}
+
+				form ::-moz-focus-inner
+				{
+					border: 0;
+				}
+
+			form ul.actions
+			{
+				margin-bottom: 0;
+				text-align: center;
+			}
+			
