@@ -1,0 +1,86 @@
+#topheading {color:white;
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 50px;
+}
+	#para1 {color: yellow;
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 25px
+
+	}
+	#para2 {color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+		text-align: center;
+	}
+	#topbox {background-color:black; padding:30px;
+		text-align: center;
+	}
+	
+	
+	#refresh {color:;}
+ body{ 
+   background-color: #3499FA;
+}
+	a:hover {color:blue;}
+	#heading2 {color:black;
+	font-family: 'Open Sans Condensed', sans-serif;	
+	text-align: center;
+	font-size: 50px	
+	}
+	#para3 {color:red;
+		font-family: 'Open Sans Condensed', sans-serif;	
+		text-align: center;
+		font-size: 25px;
+	}
+
+	#box2 {background-color:#6AB2F7; padding:30px}
+	header ul {
+		margin: 0 auto;
+		background-color:#07DDF5;
+		height: 50px;
+	}
+	header li {padding: 120px;
+		display: inline;
+		font-family: 'Open Sans Condensed', sans-serif;	
+		font-size: 30px;
+		text-align: center;
+	}
+	a:link {color: black;}
+
+	#box2 {background-color:yellow; padding:30px}
+	}
+
+
+	#box3 {background-color:green; padding:30px}
+	}
+ #para4 {text-decoration: none;
+	font-family: 'Open Sans Condensed', sans-serif;	
+	font-size:30px;
+	text-align: center;
+ }
+#link1 {color:orange}
+#link1:visited{text-decoration: none;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px;
+}
+
+#link1:link{text-decoration: none;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px;
+}
+
+
+#link1:hover{text-decoration: none;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px;
+	color: white
+}
+
+
+#link1:active{text-decoration: none;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px;
+}
+
+#doodle {vertical-align: center;}
