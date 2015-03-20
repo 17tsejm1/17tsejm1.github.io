@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!--This creates a "link" to CSS-->
+<link type= “text/css” rel= “stylesheet” href= “style.css” />
+<!--This creates a "link" to Javascript-->
+<link rel="stylesheet" href="style.css" />
+    <!--Title of Webpage-->
+	<title>Iron Man Jump (Hard Mode)</title>
+</head>
+<body>
+	<div class="container">
+		<canvas id="canvas">
+			Aww, your browser doesn't support HTML5!
+		</canvas>
+
+		<div id="mainMenu">
+			<h2>Iron Man Jump (Hard Mode)</h2>
+			<h3>using HTML5,</h3>
+			<h3>...by <a href="http://donaldkellett.github.io">Donald Leung</a></h3>
+
+			<p class="info">
+				use
+				<span class="key left">←</span>
+				<span class="key right">→</span>
+				to move and space to (re) start...
+			</p>
+			<a class="button" href="javascript:init()">Play</a>
+		</div>
+		
+		<div id="gameOverMenu">
+			<h1>game over!</h1>
+			<h3 id="go_score">you scored 0 points</h3>
+
+			<a class="button" href="javascript:reset()">Restart</a>
+			<a id="tweetBtn" target="_blank" class="button tweet" href="#">Tweet score</a>
+
+			<a id="fbBtn" target="_blank" class="button fb" href="#">Post on FB</a>
+		</div>
+		http://i58.tinypic.com/17pytg.png
+		
+		<!-- Preloading image ;) -->
+		<img id="sprite" src="http://i58.tinypic.com/17pytg.png"/>
+
+		<div id="scoreBoard">
+			<p id="score">0</p>
+		</div>
+
+	</div>
+	<script src="ironman.js"></script>
+</body>
+</html>	
