@@ -35,3 +35,41 @@
 		text-align: center;
 		font-size: 25px;
 }
+
+
+/*Box3*/
+	#box3 {background-color:green; padding:30px}
+	header ul {
+		margin: 0 auto;
+		background-color:#07DDF5;
+		height: 50px;
+}
+	#heading3 {color:white;
+	font-family: 'Open Sans Condensed', sans-serif;	
+	text-align: center;
+	font-size: 50px	
+}
+	#para3{color:orange;
+		font-family: 'Open Sans Condensed', sans-serif;	
+		text-align: center;
+		font-size: 25px;
+}
+
+
+/*Box4*/
+	#box4 {background-color:red; padding:30px}
+	header ul {
+		margin: 0 auto;
+		background-color:#07DDF5;
+		height: 50px;
+}
+	#heading4 {color:yellow;
+	font-family: 'Open Sans Condensed', sans-serif;	
+	text-align: center;
+	font-size: 50px	
+}
+	#para4{color:white;
+		font-family: 'Open Sans Condensed', sans-serif;	
+		text-align: center;
+		font-size: 25px;
+}
