@@ -1,0 +1,21 @@
+body{
+  background-color:#665b51;
+}
+
+canvas{
+  margin: 0 auto;
+  display: block;
+}
+
+small{color:grey; text-transform:uppercase; position: absolute;}
+
+#debug{
+ 
+  color: lime;
+  font-family: Courier;
+  position: absolute;
+  width: 400px;
+  height: 300px;
+  overflow: hidden;
+  visibility: hidden;
+}

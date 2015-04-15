@@ -1,0 +1,96 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 18px;
+  font-family: Play, sans-serif;
+  line-height: 1.2;
+  background: rgb(31, 31, 31);
+  color: #aaa;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(43, 183, 164);
+  font-weight: bold;
+  transition: .3s;
+  &:hover {
+    color: white;
+    
+  }
+}
+
+h1 {
+  margin: .2em 0;
+  color: white;
+}
+p {
+  margin: .8em 0;
+}
+.wrap {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+form {
+  label {
+    display: block;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: .3em;
+  }
+  input {
+    outline: none;
+    width: 100%;
+    font-size: 1.3rem;
+    padding: .5em 1em;
+    border: 5px solid white;
+    border-radius: .3em;
+    &:focus {
+      border-color: rgb(43, 183, 164);
+    }
+  }
+}
+.results {
+  margin: 1rem auto;
+}
+.result {
+  padding: .8rem;
+  margin-bottom: .8rem;
+  border: 5px solid #aaa;
+  border-radius: .3em;
+ .imdb {
+   float: right;
+   position: relative;
+   top: 5px;
+ }
+  h2 {
+    float: left;
+    color: white;
+    a {
+      color: #aaa;
+      &:hover {
+        color: white;
+      }
+    }
+  }
+  .title {
+    margin-bottom: .5em;
+  }
+  .meta {
+    display: block;
+    strong {
+      color: white;
+    }
+  }
+}
+
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
